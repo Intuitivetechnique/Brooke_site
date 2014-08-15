@@ -23,7 +23,7 @@
 
 				<div class="PraiseBox">
 					<div class="border">
-						<div class="PraisePic"><a href="http://www.moneyzen.com" target="_blank"><img src="manisha.jpg" alt="Manisha"/></a></div>
+						<div class="PraisePic"><a href="http://www.moneyzen.com" target="_blank"><img src="images/manisha.jpg" alt="Manisha"/></a></div>
 						<div class="praiseName">Manisha Thakor
 						</div>
 
@@ -45,7 +45,7 @@
 
 			<div class="PraiseBox">
 				<div class="border">
-					<div class="PraisePic"><a href="http://www.megganwatterson.com" target="_blank"><img src="meggan.jpg" alt="Meggan"/></a></div>
+					<div class="PraisePic"><a href="http://www.megganwatterson.com" target="_blank"><img src="images/meggan.jpg" alt="Meggan"/></a></div>
 					<div class="praiseName">Meggan Watterson
 					</div>
 
@@ -64,7 +64,7 @@
 
 		<div class="PraiseBox">
 			<div class="border">
-				<div class="PraisePic"><a href="http://www.marryinggeorgeclooney.com" target="_blank"><img src="amy.jpg" alt="Amy"/> </a></div>
+				<div class="PraisePic"><a href="http://www.marryinggeorgeclooney.com" target="_blank"><img src="images/amy.jpg" alt="Amy"/> </a></div>
 				<div class="praiseName">Amy Ferris
 				</div>
 
@@ -80,7 +80,7 @@
 
 	<div class="PraiseBox">
 		<div class="border">
-			<div class="PraisePic"><a href="http://ninagodiwalla.com" target="_blank"><img src="nina.jpg" alt="Nina"/></a></div>
+			<div class="PraisePic"><a href="http://ninagodiwalla.com" target="_blank"><img src="images/nina.jpg" alt="Nina"/></a></div>
 
 			<div class="praiseName">Nina Godiwalla
 			</div>
@@ -97,7 +97,7 @@
 
 <div class="PraiseBox">
 	<div class="border">
-		<div class="PraisePic"><a href="http://jilldidonato.com/" target="_blank"><img src="jill.jpg" alt="Jill"/></a></div>
+		<div class="PraisePic"><a href="http://jilldidonato.com/" target="_blank"><img src="images/jill.jpg" alt="Jill"/></a></div>
 		
 		<div class="praiseName">Jill DiDonato
 		</div>
@@ -117,7 +117,7 @@
 
 <div class="PraiseBox">
 	<div class="border">
-		<div class="PraisePic"><a href="http://shenegotiates.com/" target="_blank"><img src="Victoria.jpg" alt="Victoria"/></a></div>
+		<div class="PraisePic"><a href="http://shenegotiates.com/" target="_blank"><img src="images/Victoria.jpg" alt="Victoria"/></a></div>
 		
 		<div class="praiseName">Victoria Pychon
 		</div>
@@ -134,7 +134,7 @@
 
 <div class="PraiseBox">
 	<div class="border">
-		<div class="PraisePic"><a href="http://suzyspencer.com/" target="_blank"><img src="suzy.jpg" alt="Suzy"/></a></div>
+		<div class="PraisePic"><a href="http://suzyspencer.com/" target="_blank"><img src="images/suzy.jpg" alt="Suzy"/></a></div>
 		
 		<div class="praiseName">Suzy Spencer
 		</div>
@@ -149,7 +149,7 @@
 
 <div class="PraiseBox">
 	<div class="border">
-		<div class="PraisePic"><a href="http://www.drdebra.com" target="_blank"><img src="Debra.jpg" alt="Debra"/></a></div>
+		<div class="PraisePic"><a href="http://www.drdebra.com" target="_blank"><img src="images/Debra.jpg" alt="Debra"/></a></div>
 		
 		<div class="praiseName">Dr. Debra Condren
 		</div>
