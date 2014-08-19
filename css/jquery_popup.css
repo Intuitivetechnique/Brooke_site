@@ -1,0 +1,106 @@
+@font-face { font-family: Nue-Gothic; src: url('Nue-Gothic.TTF'); } 
+h3{
+   font-size:1.77em;
+    text-align:center;
+	font-family: Nue-Gothic;
+	color:#333;
+
+}
+
+#onclick{
+ 
+   cursor:pointer;
+
+}
+#result{
+	font-family:'Open Sans', sans-serif;
+	color:#2da7b4;
+	display:none;
+	height:420px;
+	text-align:center;
+	margin-top:30%;
+	font-size:16px;
+	font-weight:bold;
+
+}
+.form{
+    border-radius:2px;
+    padding:20px 30px;
+    box-shadow:0 0 15px;
+    font-size:16px;
+	font-weight:400;
+    width:350px;
+	height:420px;
+    margin-left:auto;
+    margin-right:auto;
+	overflow:hidden;	
+}
+
+input{
+    width:100%;
+    height:35px;
+    margin-top:5px;
+    border:1px solid #999;
+    border-radius:3px;
+    padding:2px;
+}	
+
+
+.submit_btn{
+    background-color:rgb(45, 167, 180);
+    border:1px solid white;
+    font-family:'Open Sans', sans-serif;
+    font-size:14px;
+    color:white;
+    width:20%;
+	float:left;
+	margin-top:5px;
+	height:30px;
+	text-align:center;
+}
+textarea{
+    width:100%;
+    height:80px;
+    margin-top:5px;
+    border-radius:3px;
+    padding:5px;
+    resize:none;
+}
+
+#contactdiv{ 
+    opacity:0.92; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background: #000;
+    display: none;
+}
+
+
+#contact_form{   
+    width:350px;
+	margin-top:5%;	
+    margin-left:auto;
+	margin-right:auto;
+    background-color:white;
+    font-family: 'Open Sans', sans-serif;
+	color:#333;
+	font-size:12px;
+    position: relative;
+    border: 2px solid rgb(45, 167, 180);
+}
+.img{
+    float: right;
+    margin-top:-5px;
+    margin-right:-12px;
+	cursor:pointer;
+}
+#contact{
+    left: 50%;
+    top: 50%;
+    margin-left:-210px;
+    margin-top:-255px;
+}
+

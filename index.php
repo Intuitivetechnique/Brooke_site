@@ -33,7 +33,7 @@
 			</p>
 
 			<p>
-				<a href="services.html"><span class="BlueLink">I am here to help</span></a>
+			<span class="BlueLink" id="onclick">I am here to help</span>
 
 
 			</p>
@@ -44,9 +44,9 @@
 </div>
 	<?php include "footer.php" ?>
 	<?php include "javascript_imports.php" ?>
-
+	<script src="/js/jquery-popup-form/jquery_popup.js"></script>
 	<script type="text/javascript">
-
+/*
 	$( document ).ready(function() {
 
 		$("#contact-form").submit(function(){
@@ -71,7 +71,36 @@
 		});
 
 	});
-
+*/
 	</script>
 </body>
+	<div id="contactdiv">
+			<fieldset class="form" id="contact_form">
+				<img src="images/button_cancel.png" class="img" id="cancel"/>
+
+					<div id="result"></div>
+						<h3>Contact Form</h3>
+						<label for="name"><span>Name</span>
+						<input type="text" name="name" id="name" placeholder="Enter Your Name" />
+						</label>
+						
+						<label for="email"><span>Email Address</span>
+						<input type="email" name="email" id="email" placeholder="Enter Your Email" />
+						</label>
+						
+						<label for="phone"><span>Phone</span>
+						<input type="text" name="phone" id="phone" placeholder="Phone Number" />
+						</label>
+						
+						<label for="message"><span>Message</span>
+						<textarea name="message" id="message" placeholder="Enter Your Name"></textarea>
+						</label>
+						
+						<label><span>&nbsp;</span>
+						<button class="submit_btn" id="submit_btn">Submit</button>
+
+						</label>
+						
+				</fieldset>
+	</div>
 </html>
